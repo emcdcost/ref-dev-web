@@ -12,6 +12,27 @@ Aqui está uma lista de referências para você se aprofundar nos estudos, aprim
 - [Recursos Técnicos](#-recursos-técnicos)
 - [Conteúdo em Áudio](#-conteúdo-em-áudio)
 
+## 🎯 Artigos
+
+- [CSS: seletores avançados que facilitam o desenvolvimento](https://www.alura.com.br/artigos/css-seletores-avancados) — Este artigo da Alura explora seletores avançados em CSS, incluindo seletores de classe, fundamentais para aplicar estilos específicos a elementos selecionados.  
+- [Começando a organizar seu CSS](https://www.alura.com.br/artigos/como-organizar-css) — Dicas sobre como organizar o CSS em um projeto, mantendo o código mais limpo e gerenciável.  
+- [Criando componentes CSS com o padrão BEM](https://www.alura.com.br/artigos/criando-componentes-css-com-padrao-bem) — Método de nomeação de classes para tornar o código mais claro, reutilizável e fácil de entender.  
+- [Entendendo como funciona o Box Model e o Box Sizing](https://www.alura.com.br/artigos/entendendo-box-model-e-box-sizing) — Explicação detalhada sobre o conceito de Box Model em CSS.  
+- [CSS: o que é, como usar no HTML e um Guia para iniciar](https://www.alura.com.br/artigos/css-o-que-e-como-usar-guia) — Introdução abrangente ao CSS, desde conceitos básicos até dicas práticas.  
+- [Reset CSS: O que é, Exemplos, Como Criar e Utilizar](https://www.alura.com.br/artigos/reset-css) — Como garantir consistência entre navegadores usando reset.css.  
+- [Organizando o CSS no seu projeto](https://www.alura.com.br/artigos/organizando-css-projeto) — Discussão sobre boas práticas de organização de estilos.  
+- [Guia de Unidades no CSS](https://www.alura.com.br/artigos/guia-de-unidades-css) — Explicação sobre unidades relativas e absolutas em CSS.  
+- [Flexbox CSS: guia completo, elementos e exemplos](https://www.alura.com.br/artigos/css-flexbox) — Guia prático e detalhado sobre Flexbox.  
+- [Tailwind: Adicionando fontes customizadas](https://www.alura.com.br/artigos/tailwind-adicionando-fontes-customizadas) — Como usar fontes externas e locais em projetos.  
+- [Tailwind CSS: estilizando a sua página com classes utilitárias](https://www.alura.com.br/artigos/tailwind-css-estilizando-com-classes-utilitarias) — Guia sobre classes utilitárias no Tailwind.  
+- [Conhecendo padrões de CSS](https://www.alura.com.br/artigos/conhecendo-padroes-css) — Exploração de padrões em CSS aplicados a interfaces.  
+- [SASS e CSS: estilizando um site](https://www.alura.com.br/artigos/sass-css-estilizando-um-site) — Abordagem prática usando flexbox, column e gap para espaçamentos consistentes.
+
+## 🌍 Tutoriais em Inglês
+
+- [Como Importar Google Fonts em Arquivo CSS](https://www.w3schools.com/css/css_font_google.asp) — Tutorial com exemplos de `@import` e `<link>`.  
+- [Como Usar Google Fonts em CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/@import) — Guia simples sobre importação e uso do Google Fonts.
+  
 ---
 
 ## 🔹 HTML, CSS e JavaScript
