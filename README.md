@@ -75,6 +75,9 @@ Aqui está uma lista de referências para você se aprofundar nos estudos, aprim
 - **[Guia de cores e fontes em CSS - Adobe Color](https://color.adobe.com/explore)** (Gratuito, Inglês, Online)  
   Ajuda a escolher paletas de cores e fontes adequadas para seus projetos.
 
+- **[Guia de Layout CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
+  Ajuda na aplicação de flexbox nos projetos CSS.
+
 ---
 
 ## 🔹 Recursos Técnicos
